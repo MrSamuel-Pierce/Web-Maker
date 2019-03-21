@@ -1,0 +1,11 @@
+body {
+    padding-top: 75px;
+}
+
+label {
+    font-weight: 600;
+}
+
+nav.navbar-dark a{
+    color: white;
+}
