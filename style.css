@@ -1,3 +1,11 @@
+
+/* Utility */
+
+.full-width {
+    width: 100%;
+
+}
+
 body {
     padding-top: 75px;
 }
@@ -6,8 +14,15 @@ label {
     font-weight: 600;
 }
 
+
+/* Website */
+
 nav.navbar-dark a{
     color: white;
+}
+
+nav.navbar-light a {
+    color: black;
 }
 
 
@@ -15,4 +30,217 @@ nav.navbar-dark a{
 /* Header Check */
 /* <i class="fas fa-check"></i> */
 
-/* Header 
+/* Header Left Arrow */
+/* <i class="far fa-arrow-alt-circle-left"></i> */
+
+/* Attachments */
+/* <i class="fas fa-paperclip"></i> */
+
+
+
+
+/* Political Logos + Icons */
+
+/* Solid Republican */
+/* <i class="fas fa-republican"></i> */
+
+/* Regular Republican */
+/* <i class="far fa-republican"></i> */
+
+/* Light Republican */
+/* <i class="fal fa-republican"></i> */
+
+/* Solid Democrat */
+/* <i class="fas fa-democrat"></i> */
+
+/* Regular Democrat */
+/* <i class="far fa-democrat"></i> */
+
+/* Light Democrat */
+/* <i class="fal fa-democrat"></i> */
+
+
+
+/* Educational Icons */
+
+/* User Graduate High School + GED */
+/* <i class="far fa-user-graduate"></i> */
+
+/* User Graduate College + Vocational School */
+/* <i class="fal fa-user-graduate"></i> */
+
+/* User Graduate Master Degree */
+/* <i class="fas fa-user-graduate"></i> */
+
+
+
+/* US Dept. of Labor Projections */
+
+
+/* Elementary + Middle School Students */
+/* <i class="fas fa-user-edit"></i> */
+
+/* Working Professionals */
+/* <i class="fas fa-user-lock"></i> */
+
+/* People Looking for Work */
+/* <i class="fas fa-users-cog"></i> */
+
+/* People Unemployed */
+/* <i class="fas fa-users"></i> */
+
+/* Job Placement Centers Per State */
+/* <i class="fas fa-user-cog"></i> */
+
+/* Number of Women Registered to Vote Per State */
+/* <i class="fas fa-female"></i> */
+
+/* Number of Men Registered to Vote Per State */
+/* <i class="fas fa-male"></i> */
+
+
+
+/* Government Operatrions Icons */
+
+/* New Recruitment + Training Projections */
+/* <i class="fas fa-user-clock"></i> */
+
+/* Ordering New Police Cars */
+/* <i class="far fa-taxi"></i>
+
+/* Government Formulas List */
+/* <i class="fas fa-superscript"></i> */
+
+/* Population Increase */
+/* <i class="fas fa-user-plus"></i> */
+
+/* Population Decrease */
+/* <i class="fas fa-user-minus"></i> */
+
+/* US Healthcare Costs + Projections */
+/* <i class="fas fa-user-injured"></i> */
+
+/* Graphing Supplies */
+/* <i class="fas fa-ruler-combined"></i> */
+
+/* Ordering Charts */
+/* <i class="fas fa-chart-line"></i> */
+
+/* Number of People Who Are Disabled */
+/* <i class="fab fa-accessible-icon"></i> */
+
+/* Number of Ambulance Rides Per City vs. State */
+/* <i class="fas fa-ambulance"></i> */ 
+
+/* Direct Contact Information */
+/* <i class="fab fa-viber"></i> */
+
+
+
+
+
+/* Community Relations Professionals */
+
+/* Community Advocates + Activists */
+/* <i class="fas fa-bullhorn"></i> */
+
+/* Legal Advocates + Activists */
+/* <i class="fas fa-balance-scale"></i> */
+
+/* Jobs + Employment Cetrificates */
+/* <i class="fas fa-certificate"></i> */
+
+/* State + Local Landmark Commission */
+/* <i class="fas fa-landmark"></i> */
+
+/* Coffee + Tea Time Workshops */
+/* <i class="fas fa-coffee"></i> */
+
+/* Local Business Time */
+/* <i class="fas fa-business-time"></i> */
+
+/* General Legislation Requests */
+/* <i class="fas fa-file-alt"></i> */
+
+/* Equal Rights Legislation */
+/* <i class="far fa-file-alt"></i> */
+
+
+
+/* Professional Training Icons */
+
+/* American Sign-Language Interpreters */
+/* <i class="fas fa-american-sign-language-interpreting"></i> */ 
+
+/* Nursing */
+/* <i class="fas fa-user-nurse"></i> */
+
+/* Doctor */
+/* <i class="fas fa-user-md"></i> */
+
+/* US National Seashore Positions */
+/* <i class="fas fa-anchor"></i> */
+
+/* Security + State + Municipal Police */
+/* <i class="fas fa-user-shield"></i> */
+
+/* Federal Investigations */
+/* <i class="fas fa-user-secret"></i> */
+
+/* Business + Banking */
+/* <i class="fas fa-user-tie"></i> */
+
+
+
+
+
+/* Exercise Icons */
+
+/* User-Ninja Beginner */
+/* <i class="far fa-user-ninja"></i> */
+
+/* User-Ninja Advanced */
+/* <i class="fas fa-user-ninja"></i> */
+
+
+
+
+/* Travel */
+
+/* Taxi Icon */
+/* <i class="fas fa-taxi"></i> */
+
+/* Lyft Icon */
+/* <i class="fab fa-lyft"></i> */
+
+/* Uber Icon */
+/* <i class="fab fa-uber"></i> */
+
+
+
+
+
+
+/* Video + Social Media */
+
+/* Youtube Icon */
+/* <i class="fab fa-youtube"></i> */
+
+/* Youtube Square Icon */
+/* <i class="fab fa-youtube-square"></i> */
+
+
+
+/* Fraternity Training Class Icons */
+
+/* After 2019 */
+/* <i class="fas fa-sort-numeric-down"></i> */
+
+/* Before 2019 */
+/* <i class="fas fa-sort-numeric-up"></i> */
+
+/* Bar Chart */
+/* <i class="far fa-chart-bar"></i> */
+
+/* Pie Chart */
+/* <i class="fas fa-chart-pie"></i> */
