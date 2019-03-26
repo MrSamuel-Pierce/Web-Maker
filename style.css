@@ -14,6 +14,9 @@ label {
     font-weight: 600;
 }
 
+a, a:hover {
+    text-decoration: none;
+}
 
 /* Website */
 
@@ -21,10 +24,22 @@ nav.navbar-dark a{
     color: white;
 }
 
+/* Pages */
+
 nav.navbar-light a {
     color: black;
 }
 
+/* Widgets */
+
+.icon-right {
+    position:absolute;
+    right: 15px;
+    z-index: 1;
+    background: white;
+    border-radius: 5px 0 0 5px; 
+    padding: 5px;
+}
 
 
 /* Header Check */
@@ -33,9 +48,17 @@ nav.navbar-light a {
 /* Header Left Arrow */
 /* <i class="far fa-arrow-alt-circle-left"></i> */
 
+/* Header Cheveron */
+/* <i class="fas fa-chevron-left"></i> */
+
 /* Attachments */
 /* <i class="fas fa-paperclip"></i> */
 
+/* Publish Website Symbol */
+/* <i class="fas fa-play-circle"></i> */
+         
+/* Global Information */
+/* <i class="fas fa-globe-africa"></i>
 
 
 

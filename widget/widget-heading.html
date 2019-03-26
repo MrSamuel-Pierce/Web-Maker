@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css" integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
     <link rel="stylesheet" href="../style.css">
-    <title>Widget-Youtube</title>
+    <title>Widget-Heading</title>
 </head>
 <body>
     <nav class="navbar navbar-light bg-light fixed-top">
@@ -18,39 +18,26 @@
     <div class="container">
         <form>
             <div class="form-group">
-                <label for="name">Name</label>
-                <input placeholder="Enter a name for this widget..." id="name" name="name" type="text" class="form-control">
+            <label for="name">Name</label>
+            <input placeholder="Enter a name for this widget..." id="name" name="name" type="text" class="form-control">
             </div>
             <div class="form-group">
-                <label for="text">Text</label>
-                <input placeholder="Enter a text description for this image (optional)" class="form-control" type="text" name="text" id="text"> 
+            <label for="text">Text</label>
+            <input placeholder="Enter a text description for this image (optional)" class="form-control" type="text" name="text" id="text"> 
             </div>
             <div class="form-group">
-                <label for="url">URL</label>
-                <input type="text" id="url" name="url" class="form-control" placeholder="Enter the location of the image url...">
+            <label for="url">URL</label>
+            <input type="text" id="url" name="url" class="form-control" placeholder="Enter the location of the image url...">
             </div>
             <div class="form-group">
-                <label for="width">Width</label>
-                <input class="form-control" type="range" list="tickmarks">
-                <datalist id="tickmarks">
-                    <option value="0" label="0%">
-                    <option value="10">
-                    <option value="20">
-                    <option value="30">
-                    <option value="40">
-                    <option value="50" label="50%">
-                    <option value="60">
-                    <option value="70">
-                    <option value="80">
-                    <option value="90">
-                    <option value="100" label="100%">
-                </datalist>
-            </div>  
+            <label for="width">Size</label>
+            <input class="form-control" type="range" list="tickmarks">
             <a href="widget-list.html" class="btn btn-danger btn-block">Delete</a>
+            </div>    
         </form>
     </div>
     <nav class="navbar navbar-light bg-light fixed-bottom">
-        <a href="../user/profile.html"><i class="fas fa-user"></i></a>
-    </nav>  
+    <a href="../user/profile.html"><i class="fas fa-user"></i></a>
+    </nav>
 </body>
 </html>
